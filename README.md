@@ -1,5 +1,6 @@
-<h1 align="center">Hola 👋, soy Carlos Fabián</h1>
+<h1 align="center">Hola 👋, soy Carlos Fabián</h1> 
 <h3 align="center">Un apasionado desarrollador Full Stack con Javascript de Argentina</h3>
+<img aling="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 <p align="left"> < img src="https://komarev.com/ghpvc/?username=chzfabian&label=Profile%20views&color=0e75b6&style=flat" alt="chzfabian" /> </p>
 
