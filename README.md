@@ -1,5 +1,4 @@
 
-<img aling="right" alt="Border" width="400" src=https://media.licdn.com/dms/image/D4E16AQFCGRihvMfTsA/profile-displaybackgroundimage-shrink_350_1400/0/1671136888487?e=1682553600&v=beta&t=Bji7fmq2ZbTOQufczWuOH0gXafZOmrGT_OgHcuhIisU">
 
 <h1 align="center">Hola 👋, soy Carlos Fabián</h1>
 <h3 align="center">Un apasionado desarrollador Full Stack con Javascript de Argentina</h3>
