@@ -1,31 +1,19 @@
+- 👯 Busco colaborar en **Proyectos Individuales**
 
-<h1 align="center">Hola 👋, soy Carlos Fabián</h1>
-<h3 align="center">Un apasionado desarrollador Full Stack con Javascript de Argentina</h3>
-<img aling="right" alt="Codding" width="400" src "https://media.tenor.com/2uyENRmiUt0AAAAS/coding.gif">
-
-<p align="left"> < img src="https://komarev.com/ghpvc/?username=chzfabian&label=Profile%20views&color=0e75b6&style=flat" alt="chzfabian" /> </p>
-
-<p align="left"> <a href= "https://github.com/ryo-ma/github-profile-trofeo"><img src="https://github-perfil-trofeo.vercel.app/?username=chzfabian" alt="chzfabian" / ></a> </p>
-
-<p align="left"> <a href="https://twitter.com/https://twitter.com/chzfabian_" target="blank"><img src= "https://img.escudos.io/twitter/follow/https://twitter.com/chzfabian_?logo=twitter&style=for-the-badge" alt="https://twitter.com/chzfabian_" /></a> </p>
-
-- 🔭 Actualmente estoy trabajando en [www.chzfabian.com](https://www.chzfabian.com)
-
-- 🌱 Actualmente estoy aprendiendo **Angular / React**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://www.chzfabian.com](https://www.chzfabian.com)
 
 - 📫 Cómo contactarme **cfacosta.16@gmail.com**
 
 ### Publicaciones de blogs
-<!-- BLOG -POST-LIST:START -->
-<!-- BLOG-POST-LIST:FIN -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Conéctate conmigo:</h3>
+<h3 align="left">Conéctese conmigo:</h3>
 <p align="left">
-<a href ="https://dev.to/https://dev.to/chzfabian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github- perfil-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/chzfabian"alto="30" ancho="40" /></a>
-<a href="https://twitter.com/https://twitter.com/chzfabian_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain /github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/chzfabian_" height="30" width="40" /></ a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chzfabian/" target="blank"><img align="center" src="https: //raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in /chzfabian/" alto="30" ancho="40" /></a>
+<a href="https://dev.to/chzfabian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chzfabian" height="30" width=" 40" /></a>
+<a href="https://twitter.com/chzfabian_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/twitter.svg" alt="chzfabian_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in /https://www.linkedin.com/in/chzfabian/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- generador/maestro/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chzfabian/" height="30" width="40" /> </a>
 <a href="https://instagram.com/https://www.instagram.com/fabianhrr/" target="blank"><img align="center" src="https://raw.githubusercontent. com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/fabianhrr/" height="30" width=" 40" /></a>
 </p>
 
