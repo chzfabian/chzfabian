@@ -18,7 +18,7 @@
 
 - 📫 Cómo contactarme **cfacosta.16@gmail.com**
 
-<h3 align="left">Conéctate conmigo:</h3>
+<h3> Conéctate conmigo:</h3>
 <p align="left">
 <a href="https:// dev.to/chzfabian" target="en blanco"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ Social/devto.svg" alt="chzfabian" height="30" width="40" /></a>
 <a href="https://twitter.com/chzfabian_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chzfabian_" height=" 30" ancho="40" /></a>
