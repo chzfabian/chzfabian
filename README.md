@@ -2,7 +2,7 @@
 <h3 align="center">Soy un apasionado desarrollador Full Stack con Javascript de Argentina</h3>
 <img aling="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-<p align="left"> < img src="https://komarev.com/ghpvc/?username=chzfabian&label=Profile%20views&color=0e75b6&style=flat" alt="chzfabian" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chzfabian&label=Profile%20views&color=0e75b6&style=flat" alt="chzfabian" /> </p>
 
 <p align="left"> <a href= "https://twitter.com/chzfabian_" target="blank"><img src="https://img.shields.io/twitter/follow/chzfabian_?logo=twitter&style=for-the-badge" alt= "chzfabian_" /></a> </p>
 
