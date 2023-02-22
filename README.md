@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Carlos Fabián</h1> 
+<h1 align="center">Hola 👋, soy Carlos Fabian</h1> 
 <h3 align="center">Soy un apasionado desarrollador Full Stack con Javascript de Argentina</h3>
 <img aling="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
