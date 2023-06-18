@@ -34,3 +34,5 @@
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=chzfabian&show_icons=true&locale=en" alt="chzfabian" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chzfabian&" alt="chzfabian" /></p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Chzfabian&theme=ocean-dark&hide_border=verdadero&border_radius=4.7&locale=es&mode=weekly)](https://git.io/streak-stats)
