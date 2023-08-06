@@ -1,3 +1,65 @@
+
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+
+<!-- ## 👋 &nbsp;Hey there! Carlos Fabian -->
+
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+### 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+</p>
+
+-----
+Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
+
+Last Edited on: 11/12/2020
+
+
+
+
+
+
+
+
 <h1 align="center">Hola 👋, soy Carlos Fabián</h1>
 <h3 align="center">Un apasionado desarrollador frontend de Argentina</h3>
 
@@ -28,7 +90,15 @@
 </p>
 
 < h3 align="left">Idiomas y herramientas:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos /angular/angular.svg" alt="angular" ancho="40" altura="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer "> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https: //www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https: //www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https: //www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt ="html5" ancho="40" altura="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height=" 40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https:// reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt ="reaccionar" ancho="40" altura="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> < img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> < /a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/ logotipos/adobe-xd.svg" alt="xd" ancho="40" altura="40"/> </a> </p>org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack " ancho="40" altura="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> < img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" ancho="40" altura="40"/> </a> </p>org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack " ancho="40" altura="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> < img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" ancho="40" altura="40"/> </a> </p>svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel ="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> < /p>svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel ="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> < /p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;< /p>svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel ="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> < /p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=chzfabian&show_icons=true&locale=en" alt="chzfabian" /></p>
 
