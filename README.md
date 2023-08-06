@@ -1,4 +1,13 @@
-<h1 align="center">Hola 👋, soy Carlos Fabián</h1>
+<h1 align="center">¡Hola, soy Carlos Fabian! 👋
+Tengo 26 años y soy un apasionado joven programador con un hambre insaciable por el conocimiento y la excelencia en el mundo del desarrollo. Mi entusiasmo por el código y mi deseo de aprender me impulsan a alcanzar nuevos horizontes cada día.
+
+💻 Actualmente estoy enfocado en mi formación como desarrollador frontend con Angular en Coderhouse. Esta carrera me ha brindado una base sólida en la creación de interfaces atractivas y funcionales para la web. Además, he tenido la oportunidad de participar en diversos proyectos y cursos en plataformas como Platzi y Oracle, lo que ha enriquecido mi experiencia y me ha permitido colaborar en soluciones creativas.
+
+🚀 Mi objetivo no es solo destacar, sino también superar las expectativas. Estoy en constante búsqueda de desafíos que me permitan poner a prueba mis habilidades y ampliar mis capacidades técnicas. Me emociona la oportunidad de contribuir a proyectos innovadores y trabajar con mentes creativas que comparten mi pasión por la tecnología.
+
+📚 Además de mi compromiso con el desarrollo, estoy dedicando tiempo a mejorar mi habilidad en el idioma inglés. Creo firmemente en la importancia de la comunicación efectiva en un mundo globalizado y tecnológico.
+
+Siempre abierto a nuevas oportunidades y colaboraciones, estoy deseando conectar con otros profesionales, compartir ideas y crear soluciones impactantes juntos. ¡No dudes en contactarme para cualquier consulta, propuesta o simplemente para charlar sobre tecnología!</h1>
 <h3 align="center">Un apasionado desarrollador frontend de Argentina</h3>
 
 
