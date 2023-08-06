@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/chzfabian_" target="blank"><img src="https://img.shields.io/twitter/follow/chzfabian_?logo=twitter&style=for-the-badge" alt="chzfabian_" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando en [Balcadur](https://pf -acosta.vercel.app/)
+- 🔭 Actualmente estoy trabajando en [Balcadur] [(https://pf -acosta.vercel.app/)]
 
 - 🌱 Actualmente estoy aprendiendo **Coderhouse Frontend con Angular**
 
@@ -23,7 +23,7 @@
 <a href="/https://www.chzfabian.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- generador/maestro/src/images/icons/Social/rss.svg" alt="https://www.chzfabian.com" height="30" width="40" /></a>
 </p>
 
-< h3 align="left">Idiomas y herramientas:</h3>
+< h3 align="left">Idiomas y herramientas: </h3>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
