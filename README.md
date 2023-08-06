@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋, soy Carlos Fabián</h1>
 <h3 align="center">Un apasionado desarrollador frontend de Argentina</h3>
 
-<p align="left"> <img src= "https://komarev.com/ghpvc/?username=chzfabian&label=Profile%20views&color=0e75b6&style=flat" alt="chzfabian" /> </p>
 
 <p align="left"> <a href="https: //github.com/ryo-ma/github-profile-trofeo"><img src="https://github-perfil-trofeo.vercel.app/?username=chzfabian" alt="chzfabian" /></ a> </p>
 
@@ -37,7 +36,3 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;< /p>svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel ="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> < /p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=chzfabian&show_icons=true&locale=en" alt="chzfabian" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chzfabian&" alt="chzfabian" /></p>
