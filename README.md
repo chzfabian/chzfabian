@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 Actualmente estoy trabajando en el proyecto de [Balcadur] [(https://pf -acosta.vercel.app/)]<br><br>🌱 Actualmente estoy aprendiendo Coderhouse Frontend con Angular<br><br>👯 Busco colaborar en proyectos Javascript | Typescript | Angular<br><br>👨‍💻 Todos mis proyectos están disponibles en www.chzfabian.com <br><br>📫 Cómo contactarme cfacosta.16@gmail.com
 
+<img src='https://drive.google.com/file/d/1xm4rFzCdS29rbF7kXnITdQ0NW43nfjlk/view?usp=sharing/' style="height: 400px;"/>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/chzfabian) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fabianhrr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chzfabian/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Chzfabian_) 
