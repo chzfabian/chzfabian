@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Actualmente estoy trabajando en [Balcadur] [(https://pf -acosta.vercel.app/)]<br><br>🌱 Actualmente estoy aprendiendo Coderhouse Frontend con Angular<br><br>👯 Busco colaborar en proyectos Javascript | Typescript | Angular<br><br>👨‍💻 Todos mis proyectos están disponibles en www.chzfabian.com )<br><br>📫 Cómo contactarme cfacosta.16@gmail.com
+🔭 Actualmente estoy trabajando en el proyecto de [Balcadur] [(https://pf -acosta.vercel.app/)]<br><br>🌱 Actualmente estoy aprendiendo Coderhouse Frontend con Angular<br><br>👯 Busco colaborar en proyectos Javascript | Typescript | Angular<br><br>👨‍💻 Todos mis proyectos están disponibles en www.chzfabian.com )<br><br>📫 Cómo contactarme cfacosta.16@gmail.com
 
 
 ## 🌐 Socials:
